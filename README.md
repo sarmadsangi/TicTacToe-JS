@@ -1,6 +1,11 @@
 TicTacToe-JS
 ============
 
+Game Info
+------------
+Multiplayer support (Human vs Human)
+Single Player (Human vs Computer)
+
 
 My module is pretty straight forward. It takes click instructions from user on table grids (board ) checks if that cell is already selected or not. If not then it goes ahead with selection of that grid. Once grid is selected another function is executed to check if the winning pattern matches any of same selected grids, if yes then the winner is prompted , if all the grids are selected and there is no pattern match then game draw message is prompted and if there are remaining unselected grids and no pattern match another function is executed to swap current player from “X” to “O” and continue the game.
 
