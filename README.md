@@ -1,7 +1,7 @@
 TicTacToe-JS
 ============
 
-Game Information
+Game Info
 ------------
 Multiplayer support (Human vs Human)
 Single Player (Human vs Computer)
